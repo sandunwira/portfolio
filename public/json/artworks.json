@@ -1,0 +1,309 @@
+[
+	{
+		"img": "/images/artworks/1.webp",
+		"featured": false,
+		"link": "",
+		"platform": ""
+	},
+	{
+		"img": "/images/artworks/2.webp",
+		"featured": false,
+		"link": "",
+		"platform": ""
+	},
+	{
+		"img": "/images/artworks/3.webp",
+		"featured": true,
+		"link": "https://ts.techmorph.lk",
+		"platform": "Teamspeak"
+	},
+	{
+		"img": "/images/artworks/4.webp",
+		"featured": true,
+		"link": "https://ts.techmorph.lk",
+		"platform": "Teamspeak"
+	},
+	{
+		"img": "/images/artworks/5.webp",
+		"featured": false,
+		"link": "",
+		"platform": ""
+	},
+	{
+		"img": "/images/artworks/6.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=642464320576574",
+		"platform": "Facebook"
+	},
+	{
+		"img": "/images/artworks/7.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=643852723771067",
+		"platform": "Facebook"
+	},
+	{
+		"img": "/images/artworks/8.webp",
+		"featured": true,
+		"link": "https://www.youtube.com/@mahazona",
+		"platform": "YouTube"
+	},
+	{
+		"img": "/images/artworks/9.webp",
+		"featured": true,
+		"link": "https://www.twitch.tv/mahazona",
+		"platform": "Twitch"
+	},
+	{
+		"img": "/images/artworks/10.webp",
+		"featured": true,
+		"link": "https://www.twitch.tv/mahazona",
+		"platform": "Twitch"
+	},
+	{
+		"img": "/images/artworks/11.webp",
+		"featured": true,
+		"link": "https://www.linkedin.com/posts/sandunwira_design-development-project-activity-7052390936827346945-TgDM",
+		"platform": "LinkedIn"
+	},
+	{
+		"img": "/images/artworks/12.webp",
+		"featured": true,
+		"link": "https://sjccolombo.onrender.com",
+		"platform": "SJCColombo"
+	},
+	{
+		"img": "/images/artworks/13.webp",
+		"featured": true,
+		"link": "https://github.com/sandunwira/SupTube/releases/tag/1.3.0",
+		"platform": "GitHub"
+	},
+	{
+		"img": "/images/artworks/14.webp",
+		"featured": true,
+		"link": "https://www.linkedin.com/posts/sandunwira_windows-tauri-github-activity-7053385439440764928-g5Q0",
+		"platform": "LinkedIn"
+	},
+	{
+		"img": "/images/artworks/15.webp",
+		"featured": true,
+		"link": "https://github.com/sandunwira/SupTube",
+		"platform": "GitHub"
+	},
+	{
+		"img": "/images/artworks/16.webp",
+		"featured": true,
+		"link": "https://github.com/sandunwira/TwitchBox",
+		"platform": "GitHub"
+	},
+	{
+		"img": "/images/artworks/17.webp",
+		"featured": true,
+		"link": "https://www.linkedin.com/posts/sandunwira_windows-tauri-github-activity-7053385439440764928-g5Q0",
+		"platform": "LinkedIn"
+	},
+	{
+		"img": "/images/artworks/18.webp",
+		"featured": true,
+		"link": "https://www.linkedin.com/posts/sandunwira_windows-tauri-github-activity-7091015380135002112-WhAG",
+		"platform": "LinkedIn"
+	},
+	{
+		"img": "/images/artworks/19.webp",
+		"featured": true,
+		"link": "https://instagram.com/sandunwira",
+		"platform": "Instagram"
+	},
+	{
+		"img": "/images/artworks/20.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=909261297869688",
+		"platform": "Facebook"
+	},
+	{
+		"img": "/images/artworks/21.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=813766330767990",
+		"platform": "Facebook"
+	},
+	{
+		"img": "/images/artworks/22.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=927633322699152",
+		"platform": "Facebook"
+	},
+	{
+		"img": "/images/artworks/23.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=927804679348683",
+		"platform": "Facebook"
+	},
+	{
+		"img": "/images/artworks/24.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=930725082389976",
+		"platform": "Facebook"
+	},
+	{
+		"img": "/images/artworks/25.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=936129565182861",
+		"platform": "Facebook"
+	},
+	{
+		"img": "/images/artworks/26.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=830753425735947",
+		"platform": "Facebook"
+	},
+	{
+		"img": "/images/artworks/27.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=940215571440927",
+		"platform": "Facebook"
+	},
+	{
+		"img": "/images/artworks/28.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=840558611422095",
+		"platform": "Facebook"
+	},
+	{
+		"img": "/images/artworks/29.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=852669853544304",
+		"platform": "Facebook"
+	},
+	{
+		"img": "/images/artworks/30.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=853345876810035",
+		"platform": "Facebook"
+	},
+	{
+		"img": "/images/artworks/31.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=853345880143368",
+		"platform": "Facebook"
+	},
+	{
+		"img": "/images/artworks/32.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=853345883476701",
+		"platform": "Facebook"
+	},
+	{
+		"img": "/images/artworks/33.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=853345890143367",
+		"platform": "Facebook"
+	},
+	{
+		"img": "/images/artworks/34.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=853345886810034",
+		"platform": "Facebook"
+	},
+	{
+		"img": "/images/artworks/35.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=963389342456883",
+		"platform": "Facebook"
+	},
+	{
+		"img": "/images/artworks/36.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/yourhomefurniturelk/photos/pb.100064038911442.-2207520000/1396130624433834",
+		"platform": "Facebook"
+	},
+	{
+		"img": "/images/artworks/37.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=856110086533614",
+		"platform": "Facebook"
+	},
+	{
+		"img": "/images/artworks/38.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=968565628605921",
+		"platform": "Facebook"
+	},
+	{
+		"img": "/images/artworks/39.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=860524122758877",
+		"platform": "Facebook"
+	},
+	{
+		"img": "/images/artworks/40.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=973312821464535",
+		"platform": "Facebook"
+	},
+	{
+		"img": "/images/artworks/41.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=976074574521693",
+		"platform": "Facebook"
+	},
+	{
+		"img": "/images/artworks/42.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=980767040719113",
+		"platform": "Facebook"
+	},
+	{
+		"img": "/images/artworks/43.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=983851787077305",
+		"platform": "Facebook"
+	},
+	{
+		"img": "/images/artworks/44.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=872309408247015",
+		"platform": "Facebook"
+	},
+	{
+		"img": "/images/artworks/45.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=987472773381873",
+		"platform": "Facebook"
+	},
+	{
+		"img": "/images/artworks/46.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=875385151272774",
+		"platform": "Facebook"
+	},
+	{
+		"id": 11,
+		"img": "/images/artworks/47.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=1001011138694703",
+		"platform": "Facebook"
+	},
+	{
+		"img": "/images/artworks/48.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=1007275614734922",
+		"platform": "Facebook"
+	},
+	{
+		"img": "/images/artworks/49.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=1035600885235728",
+		"platform": "Facebook"
+	},
+	{
+		"img": "/images/artworks/50.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=1036642155131601",
+		"platform": "Facebook"
+	},
+	{
+		"img": "/images/artworks/51.webp",
+		"featured": true,
+		"link": "https://www.facebook.com/photo.php?fbid=1042565287872621",
+		"platform": "Facebook"
+	}
+]
