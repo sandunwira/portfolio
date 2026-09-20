@@ -56,6 +56,9 @@
 
 html {
 	font-family: "Campeche Regular", sans-serif;
+	color: var(--white);
+	background: var(--black);
+	scroll-behavior: smooth;
 }
 
 
