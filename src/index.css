@@ -1,3 +1,23 @@
+:root{
+	--white: #ECECEC;
+	--white2: #D9D9D9;
+	--grey: #242424;
+	--black: #161616;
+	--accent: #E73636;
+	--accent2: #CD3131;
+	--green: #1EAD1E;
+
+	--mailColor: #D18E11;
+	--ytColor: #FF0000;
+	--spotifyColor: #1DB954;
+	--twtvColor: #9146FF;
+	--linColor: #0A66C2;
+	--igColor: #FF0069;
+	--ghColor: #181717;
+	--behanceColor: #1769FF;
+	--twitterColor: #000000;
+}
+
 @import 'tailwindcss';
 
 
@@ -29,6 +49,31 @@
 }
 
 
+* {
+	scrollbar-width: thin; /*For Firefox*/
+	scrollbar-color: var(--accent) var(--black);
+}
+
 html {
 	font-family: "Campeche Regular", sans-serif;
 }
+
+
+/* SCROLLBAR PROPERTIES START ========================================= */
+*::-webkit-scrollbar{
+	width: 8px;
+}
+*::-webkit-scrollbar-track{
+	background: transparent;
+}
+*::-webkit-scrollbar-thumb{
+	background-color: var(--accent);
+	border-radius: 5px;
+}
+*::-webkit-scrollbar-thumb:hover{
+	background-color: var(--accent2);
+}
+*::-webkit-scrollbar-thumb:active{
+	background-color: #B92C2C;
+}
+/* =========================================== SCROLLBAR PROPERTIES END */
