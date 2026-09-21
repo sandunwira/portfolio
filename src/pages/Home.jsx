@@ -50,7 +50,7 @@ function HomePage() {
 				</div>
 			</header>
 
-			<div class="font-black text-2xl -ml-10 pt-1.5 pb-2.5 whitespace-nowrap overflow-hidden text-black bg-red-500">
+			<div className="font-black text-2xl -ml-10 pt-1.5 pb-2.5 whitespace-nowrap overflow-hidden text-black bg-red-500">
 				UI/UX DESIGN • GRAPHIC DESIGN • WEB DEVELOPMENT • UI/UX DESIGN • GRAPHIC DESIGN • WEB DEVELOPMENT • UI/UX DESIGN • GRAPHIC DESIGN • WEB DEVELOPMENT • UI/UX DESIGN • GRAPHIC DESIGN • WEB DEVELOPMENT • UI/UX DESIGN • GRAPHIC DESIGN • WEB DEVELOPMENT
 			</div>
 
