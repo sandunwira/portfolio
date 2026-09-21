@@ -1,8 +1,32 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 function HomePage() {
 	return (
 		<>
+			<nav className="fixed top-0 left-0 w-full backdrop-blur-xl bg-[#161616C0] z-100 h-17.5">
+				<div className="h-full w-full flex items-center justify-between px-0 md:px-16 py-4">
+					<div className="flex items-center space-x-16">
+						<Link to="/" className="text-white hover:text-gray-300 transition-colors duration-300">
+							<img src="/images/logo.svg" alt="Logo" className="h-5 w-auto object-contain" />
+						</Link>
+
+						<div className="hidden md:flex items-center space-x-8 uppercase">
+							<Link to="/" className="text-white font-light text-sm hover:text-gray-300 transition-colors duration-300">
+								Resume
+							</Link>
+							<Link to="/portfolio" className="text-white font-light text-sm hover:text-gray-300 transition-colors duration-300">
+								Portfolio
+							</Link>
+						</div>
+					</div>
+
+					<button className="uppercase text-xs bg-red-500 text-white px-4 py-2 rounded-md hover:bg-red-600 border-2 border-red-500 transition-colors duration-300">
+						Get In Touch
+					</button>
+				</div>
+			</nav>
+
 			<header className="h-dvh w-full flex flex-row">
 				<div className="h-full w-7/12 flex items-end justify-between py-8 px-16">
 					<div className="flex flex-col items-start space-y-10">
