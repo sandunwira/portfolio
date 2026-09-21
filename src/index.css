@@ -49,6 +49,28 @@
 }
 
 
+.campeche-light {
+	font-family: "Campeche Light", sans-serif;
+}
+.campeche-normal {
+	font-family: "Campeche Regular", sans-serif;
+}
+.campeche-medium {
+	font-family: "Campeche Medium", sans-serif;
+}
+.campeche-bold {
+	font-family: "Campeche Bold", sans-serif;
+}
+
+
+.campeche-display-regular {
+	font-family: "Campeche-Display Regular", sans-serif;
+}
+.campeche-display-medium {
+	font-family: "Campeche-Display Medium", sans-serif;
+}
+
+
 * {
 	scrollbar-width: thin; /*For Firefox*/
 	scrollbar-color: var(--accent) var(--black);

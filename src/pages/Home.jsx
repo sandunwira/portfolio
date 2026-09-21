@@ -1,6 +1,11 @@
 import React from "react";
 import { Link } from "react-router-dom";
 
+import RedButton from "../components/buttons/RedButton";
+// import WhiteButton from "../components/buttons/WhiteButton";
+
+import Footer from "../components/Footer";
+
 function HomePage() {
 	return (
 		<>
@@ -21,27 +26,24 @@ function HomePage() {
 						</div>
 					</div>
 
-					<button className="uppercase text-xs bg-red-500 text-white px-4 py-2 rounded-md hover:bg-red-600 border-2 border-red-500 transition-colors duration-300">
-						Get In Touch
-					</button>
+					<RedButton text="Get In Touch" type="button" isLink={true} to="/contact" />
+
 				</div>
 			</nav>
 
 			<header className="h-dvh w-full flex flex-row">
-				<div className="h-full w-7/12 flex items-end justify-between py-8 px-16">
+				<div className="h-full w-7/12 flex items-end justify-between py-8 pl-16">
 					<div className="flex flex-col items-start space-y-10">
-						<h1 className="text-9xl tracking-tight">
-							<span className="font-black">Sandun</span><br />
-							<span className="font-medium">Wiratunga</span>
+						<h1 className="text-[110px] tracking-tight leading-26">
+							<span className="font-black campeche-display-medium">Sandun</span><br />
+							<span className="font-semibold campeche-light">Wiratunga</span>
 						</h1>
 
 						<p className="text-md font-normal">
 							Hey There! I'm Sandun Wiratunga, a Software Engineering Graduate who has a passion in UI/UX Design, Graphic Design and Web Development. Welcome to my personal website!
 						</p>
 
-						<button className="uppercase text-sm bg-red-500 text-white px-4.5 py-2.5 rounded-md hover:bg-red-600 border-2 border-red-500 transition-colors duration-300">
-							Explore
-						</button>
+						<RedButton text="Explore" type="button" isLink={true} to="/portfolio" />
 					</div>
 				</div>
 
@@ -60,6 +62,12 @@ function HomePage() {
 					Currently under construction, but feel free to explore and check back later for updates!
 				</p>
 			</div>
+
+			<div className="">
+
+			</div>
+
+			<Footer />
 		</>
 	);
 }
